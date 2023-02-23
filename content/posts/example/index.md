@@ -1,5 +1,5 @@
 +++
-title = "Example Post"
+title = "Mir blibä immer 07"
 date = "2023-01-01"
 draft = true
 pinned = false
