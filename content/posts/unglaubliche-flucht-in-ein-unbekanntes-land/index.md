@@ -1,7 +1,7 @@
 +++
 title = "Unglaubliche Flucht in ein unbekanntes Land."
 date = "2023-05-05"
-draft = false
+draft = true
 pinned = false
 description = "Obschon Morsal erst 22 Jahre alt ist, stand sie in ihrem Leben schon vor vielen Hindernissen, die es zu überwinden gab. Prägende Erlebnisse wie die Flucht in die Schweiz gehörten dazu. In einem Interview erzählte sie uns, wie sie mit den Erinnerungen und den Schwierigkeiten umgeht, die solch eine Flucht auslösen, und wie ihr Weg in die Schweiz und zurück in ein sicheres Leben aussah.\n"
 +++
