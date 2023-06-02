@@ -1,7 +1,7 @@
 +++
 title = "Wie habe ich ein Gedicht mit einer KI kreiert? Eine kreative Reise in die Welt der Künstlichen Intelligenz"
 date = "2023-06-02"
-draft = true
+draft = false
 pinned = false
 description = "\nIn den letzten Jahren haben Fortschritte in der Künstlichen Intelligenz (KI) die Möglichkeit eröffnet, maschinelle Systeme mit kreativen Fähigkeiten auszustatten. Eine solche Anwendung ist die Generierung von Gedichten durch KI-Algorithmen. In diesem Blogbeitrag möchte ich meine eigene Erfahrung teilen, wie ich mithilfe einer KI ein Gedicht kreiert habe und welche Herausforderungen und Erkenntnisse ich dabei gewonnen habe.\n"
 +++
